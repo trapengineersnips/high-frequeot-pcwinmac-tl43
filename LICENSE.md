@@ -1,4 +1,4 @@
-# 
+# Oficial high-frequency trading bot plugins para Mac OS | Automático high-frequency trading bot plugins para PC Windows. Con soporte de margen aislado y almacenamiento en caché de datos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
